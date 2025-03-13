@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // Minecraft Shortened Links
 const minecraftLinks = [
-    "https://linkpays.in/KwmIj"
+    "https://linkpays.in/nAWb"
 ];
 
 // Crunchyroll Shortened Links
