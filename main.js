@@ -30,16 +30,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // Minecraft Shortened Links
 const minecraftLinks = [
-    "https://linkpays.in/w8JvUD",
-    "https://linkpays.in/w8JvUD",
-    "https://linkpays.in/w8JvUD"
+    "https://linkpays.in/KwmIj"
 ];
 
 // Crunchyroll Shortened Links
 const crunchyrollLinks = [
-    "https://linkpays.in/YOUR_CRUNCHYROLL_LINK",
-    "https://linkpays.in/YOUR_CRUNCHYROLL_LINK",
-    "https://linkpays.in/YOUR_CRUNCHYROLL_LINK"
+    "https://linkpays.in/EXuQt3jL"
 ];
 
 // Function to redirect to a random Minecraft account link
